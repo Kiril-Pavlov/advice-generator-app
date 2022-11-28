@@ -3,3 +3,15 @@
   padding: 0px;
   margin: 0px;
 }
+
+:root{
+  --light-cyan:hsl(193, 38%, 86%);
+  --neon-green:hsl(150, 100%, 66%);
+  --graysh-blue:hsl(217, 19%, 38%);
+  --dark-graysh-blue:hsl(217, 19%, 24%);
+  --dark-blue:hsl(218, 23%, 16%);
+
+  --font-size-quote:28px;
+  --font-familly:'Manrope', sans-serif;
+  --font-weight:800;
+}
